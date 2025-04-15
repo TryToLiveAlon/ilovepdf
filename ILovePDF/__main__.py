@@ -10,9 +10,9 @@ iLovePDF = '''
  | | | |   _____ _____  | _ \|   \|  __| 
  | | | |__/ _ \ V / -_) |  _/| |) |  _|  
  |_| |___,\___/\_/\___| |_|  |___/|_|    
-                         ❤ [Nabil A Navab] 
-                         ❤ Email: nabilanavab@gmail.com
-                         ❤ Telegram: @nabilanavab
+                         💀 [Nabil A Navab] 
+                         💀 Email: contact.deathworld@gmail.com
+                         💀 Telegram: @DeathSupportBot
 '''
 
 
@@ -137,8 +137,8 @@ class Bot(ILovePDF):
             f"❤ BOT ID: {myID[0].id}\n"
             f"❤ BOT FILENAME: {myID[0].first_name}\n"
             f"❤ BOT USERNAME: {myID[0].username}\n\n"
-            f"❤ SOURCE-CODE By: @nabilanavab 👑\n"
-            f"❤ BOT CHANNEL: t.me/iLovePDF_bot\n\n"
+            f"❤ Bot By: @TrytoLivealon 👑\n"
+            f"❤ BOT CHANNEL: t.me/DeathkingWorld\n\n"
             f"{iLovePDF}"
         )
 
