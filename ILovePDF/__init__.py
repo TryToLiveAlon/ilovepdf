@@ -4,10 +4,10 @@
 
 file_name = "ILovePDF/__init__.py"
 
-__author__ = "nabilanavab"
-__email__ = "nabilanavab@gmail.com"
-__telegram__ = "telegram.dog/nabilanavab"
-__copyright__ = "Copyright 2021, nabilanavab"
+__author__ = "De4t8"
+__email__ = "contact.deathworld@gmail.com"
+__telegram__ = "telegram.dog/DE4T8"
+__copyright__ = "Copyright 2025, ᴅᴇᴀᴛʜ ᴄᴏᴍᴍᴜɴɪᴛʏ"
 
 iLovePDF = '''
   _   _                  ___  ___  ____ ™
@@ -15,8 +15,8 @@ iLovePDF = '''
  | | | |__/ _ \ V / -_) |  _/| |) |  _|  
  |_| |___,\___/\_/\___| |_|  |___/|_|    
                          ❤ [Nabil A Navab] 
-                         ❤ Email: nabilanavab@gmail.com
-                         ❤ Telegram: @nabilanavab
+                         ❤ Email: contact.deathworld@gmail.com
+                         ❤ Telegram: @TrytoliveAlon
 '''
 
 # If you have any questions or suggestions, please feel free to reach out.
